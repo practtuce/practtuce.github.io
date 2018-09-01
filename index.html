@@ -1,0 +1,100 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>practtuce</title>
+  <link rel="stylesheet" href="/css/main.css">
+  <link href="https://fonts.googleapis.com/css?family=Freckle+Face|Roboto" rel="stylesheet">
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  <div id="main">
+    <div id="options">
+      <div class="titleee">
+        <img src="/assets/icon_big.png" alt="icon"><h1>PRACTTUCE</h1><img src="/assets/icon_big.png" alt="icon">
+      </div>
+      <div class="options_div" id="intervals">
+        <span class="options_title">Intervals</span>
+        <ul>
+          <li>
+            <input type="radio" name="intervals" value="30" id="intervals_30">
+            <label for="intervals_30">30 sec</label>
+          </li>
+          <li>
+            <input type="radio" name="intervals" value="60" id="intervals_60">
+            <label for="intervals_60">1 min</label>
+          </li>
+          <li>
+            <input type="radio" name="intervals" value="120" id="intervals_120" checked>
+            <label for="intervals_120">2 min</label>
+          </li>
+          <li>
+            <input type="radio" name="intervals" value="300" id="intervals_300">
+            <label for="intervals_300">5 min</label>
+          </li>
+          <li>
+            <input type="radio" name="intervals" value="600" id="intervals_600">
+            <label for="intervals_600">10 min</label>
+          </li>
+        </ul>
+      </div>
+      <div class="options_div" id="rounds">
+          <span class="options_title">Rounds</span>
+          <ul>
+            <li>
+              <input type="radio" name="rounds" value="1" id="rounds_1">
+              <label for="rounds_1">1</label>
+            </li>
+            <li>
+              <input type="radio" name="rounds" value="2" id="rounds_2">
+              <label for="rounds_2">2</label>
+            </li>
+            <li>
+              <input type="radio" name="rounds" value="5" id="rounds_5">
+              <label for="rounds_5">5</label>
+            </li>
+            <li>
+              <input type="radio" name="rounds" value="10" id="rounds_10" checked>
+              <label for="rounds_10">10</label>
+            </li>
+            <li>
+              <input type="radio" name="rounds" value="20" id="rounds_20">
+              <label for="rounds_20">20</label>
+            </li>
+            <li>
+              <input type="radio" name="rounds" value="30" id="rounds_30">
+              <label for="rounds_30">30</label>
+            </li>
+            <li>
+              <input type="radio" name="rounds" value="50" id="rounds_50">
+              <label for="rounds_50">50</label>
+            </li>
+          </ul>
+        </div>
+        <div class="options_div">
+            <span class="options_title">ETA</span>
+            <span id="eta"></span>
+        </div>
+        <div class="options_div" id="categories">
+            <span class="options_title">Categories</span>
+            <div class="categories_ul_container">
+              <ul id="categories_ul"></ul>
+            </div>
+          </div>
+        <div style="margin-top: 50px">
+          <a href="#drawing" class="butt" id="start_button">START</a>
+        </div>
+    </div>
+    <div id="drawing" hidden>
+      <div id="info">
+          <div id="timer"></div>
+          <div id="count"></div>
+      </div>
+      <img id="pic" src="" alt="pic">
+    </div>
+  </div>
+  <script src="/js/pics.js"></script>
+  <script src="/js/main.js"></script>
+</body>
+</html>
