@@ -38,6 +38,7 @@ let timer;
 let prev_date;
 let win = false;
 let paused = false;
+let loading = false;
 
 function nextPic() {
   changePic();
@@ -53,12 +54,7 @@ function changePic() {
   if (curpic) curpic.done = true;
   nextCategory();
   curpic = findPic();
-  pic_elem.src = LOADING_IMG;
-  setInterval(() => {
-    if (!win) {
-      pic_elem.src = curpic.path;
-    }
-  }, 1);
+  loadPic(curpic.path);
 }
 
 function findPic() {
@@ -102,12 +98,26 @@ function init() {
   loadSettings();
   pic_elem.addEventListener('dblclick', skipPic, false);
   pic_elem.addEventListener('click', pause, false);
+  pic_elem.addEventListener('load', picHasLoaded, false);
   document.getElementById('start_button').addEventListener('click', start, false);
   document.getElementById('options').addEventListener('click', updateETA, false);
   createCategories();
   updateOptionsWithSettings();
   updateETA();
   monitorHash();
+}
+
+function loadPic(paf) {
+  pic_elem.src = paf;
+  document.getElementById('loading').hidden = false;
+  pic_elem.hidden = true;
+  loading = true;
+}
+
+function picHasLoaded() {
+  document.getElementById('loading').hidden = true;
+  pic_elem.hidden = false;
+  loading = false;
 }
 
 function loadSettings() {
@@ -208,7 +218,7 @@ function update() {
     timer_elem.textContent = 'ＹＥＳ';
     document.body.style.backgroundColor = `hsl(${180+Math.sin(prev_date/100)*180}, 60%, 90%)`;
   }
-  else if (!paused) {
+  else if (!paused && !loading) {
     timer -= (Date.now() - prev_date)/1000;
     if (timer <= 0) {
       nextPic();
