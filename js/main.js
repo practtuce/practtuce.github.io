@@ -54,7 +54,11 @@ function changePic() {
   nextCategory();
   curpic = findPic();
   pic_elem.src = LOADING_IMG;
-  pic_elem.src = curpic.path;
+  setInterval(() => {
+    if (!win) {
+      pic_elem.src = curpic.path;
+    }
+  }, 1);
 }
 
 function findPic() {
