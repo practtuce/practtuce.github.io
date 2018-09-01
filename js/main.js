@@ -1,6 +1,8 @@
 location.hash = '';
 let prev_hash = location.hash;
 
+const LOADING_IMG = '/assets/loading.jpg';
+
 let saved_settings;
 let default_settings = {
   intervals: 120,
@@ -51,6 +53,7 @@ function changePic() {
   if (curpic) curpic.done = true;
   nextCategory();
   curpic = findPic();
+  pic_elem.src = LOADING_IMG;
   pic_elem.src = curpic.path;
 }
 
