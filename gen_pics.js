@@ -1,15 +1,17 @@
 const fs = require('fs');
 const path = require('path');
+const misc = require('./custom_modules/misc');
 
 const PICS_DIR = '/assets/pics/';
+const PICS_EXTS = ['jpg', 'jpeg', 'gif', 'png'];
 
 let pics = {};
 
 let dirs = fs.readdirSync(__dirname + PICS_DIR);
 for (let i = 0; i < dirs.length; i++) {
   let curdir = path.join(__dirname, PICS_DIR, dirs[i]);
-  let files = fs.readdirSync(curdir);
-  files = files.map(x=>{
+  let files = misc.filterByExtension(fs.readdirSync(curdir), PICS_EXTS);
+  files = files.map(x => {
     return {
       name: x,
       category: dirs[i],
