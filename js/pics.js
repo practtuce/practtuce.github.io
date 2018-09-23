@@ -1647,11 +1647,6 @@ let pics = {
       "name": "f96accc4a935723b2f62d52cf2509f1b.jpg",
       "category": "doods",
       "path": "/assets/pics/doods/f96accc4a935723b2f62d52cf2509f1b.jpg"
-    },
-    {
-      "name": "Thumbs.db",
-      "category": "doods",
-      "path": "/assets/pics/doods/Thumbs.db"
     }
   ],
   "ren and stimpy": [
