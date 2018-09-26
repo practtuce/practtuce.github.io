@@ -1,4 +1,5 @@
 node gen_pics.js &&
 git add . &&
 git commit -m "a" &&
-git push
+git push &&
+read -p "done" nothing

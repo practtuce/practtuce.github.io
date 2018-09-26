@@ -188,6 +188,11 @@ let pics = {
       "path": "/assets/pics/anime grills/09844ded39695bdee8ede9ab8320419d.jpg"
     },
     {
+      "name": "110dcce7b35c9529b64421b462d07bfa.jpg",
+      "category": "anime grills",
+      "path": "/assets/pics/anime grills/110dcce7b35c9529b64421b462d07bfa.jpg"
+    },
+    {
       "name": "1145cef8d66dfd83b2b98c083f38c703.jpg",
       "category": "anime grills",
       "path": "/assets/pics/anime grills/1145cef8d66dfd83b2b98c083f38c703.jpg"
@@ -903,6 +908,11 @@ let pics = {
       "path": "/assets/pics/anime grills/40e96504de9f62f85e62dd4c6cc11f32.jpg"
     },
     {
+      "name": "42965463957e6a7ebe0e46475d50505d.jpg",
+      "category": "anime grills",
+      "path": "/assets/pics/anime grills/42965463957e6a7ebe0e46475d50505d.jpg"
+    },
+    {
       "name": "4e7b93dc9ee842278c7e5d0167286921.jpg",
       "category": "anime grills",
       "path": "/assets/pics/anime grills/4e7b93dc9ee842278c7e5d0167286921.jpg"
@@ -971,6 +981,11 @@ let pics = {
       "name": "8d78282228e4a6d576c8076821ed231b.jpg",
       "category": "anime grills",
       "path": "/assets/pics/anime grills/8d78282228e4a6d576c8076821ed231b.jpg"
+    },
+    {
+      "name": "8f5cad882d85be8c7ee3edf4170f4414.jpg",
+      "category": "anime grills",
+      "path": "/assets/pics/anime grills/8f5cad882d85be8c7ee3edf4170f4414.jpg"
     },
     {
       "name": "9c6c1f5b16310363cae58ffa6423733d.jpg",
