@@ -188,6 +188,11 @@ let pics = {
       "path": "/assets/pics/anime grills/09844ded39695bdee8ede9ab8320419d.jpg"
     },
     {
+      "name": "11-6a818fbe7b.jpg",
+      "category": "anime grills",
+      "path": "/assets/pics/anime grills/11-6a818fbe7b.jpg"
+    },
+    {
       "name": "110dcce7b35c9529b64421b462d07bfa.jpg",
       "category": "anime grills",
       "path": "/assets/pics/anime grills/110dcce7b35c9529b64421b462d07bfa.jpg"
@@ -198,9 +203,29 @@ let pics = {
       "path": "/assets/pics/anime grills/1145cef8d66dfd83b2b98c083f38c703.jpg"
     },
     {
+      "name": "12-6424eddb84.jpg",
+      "category": "anime grills",
+      "path": "/assets/pics/anime grills/12-6424eddb84.jpg"
+    },
+    {
       "name": "125364152351235.jpg",
       "category": "anime grills",
       "path": "/assets/pics/anime grills/125364152351235.jpg"
+    },
+    {
+      "name": "13-2b4c9bdd09.jpg",
+      "category": "anime grills",
+      "path": "/assets/pics/anime grills/13-2b4c9bdd09.jpg"
+    },
+    {
+      "name": "14-6cade952bc.jpg",
+      "category": "anime grills",
+      "path": "/assets/pics/anime grills/14-6cade952bc.jpg"
+    },
+    {
+      "name": "15-04fb68b4f2.jpg",
+      "category": "anime grills",
+      "path": "/assets/pics/anime grills/15-04fb68b4f2.jpg"
     },
     {
       "name": "1526584807085.jpg",
@@ -211,6 +236,11 @@ let pics = {
       "name": "1526585125098.jpg",
       "category": "anime grills",
       "path": "/assets/pics/anime grills/1526585125098.jpg"
+    },
+    {
+      "name": "19-ac75b952f7.jpg",
+      "category": "anime grills",
+      "path": "/assets/pics/anime grills/19-ac75b952f7.jpg"
     },
     {
       "name": "1e34c158ecb110b0d1b85b7446205e7d.jpg",
@@ -868,6 +898,26 @@ let pics = {
       "path": "/assets/pics/anime grills/21 Mu-12.jpg"
     },
     {
+      "name": "21-b27878f405.jpg",
+      "category": "anime grills",
+      "path": "/assets/pics/anime grills/21-b27878f405.jpg"
+    },
+    {
+      "name": "22-06a6b622b1.jpg",
+      "category": "anime grills",
+      "path": "/assets/pics/anime grills/22-06a6b622b1.jpg"
+    },
+    {
+      "name": "23-81de287f35.jpg",
+      "category": "anime grills",
+      "path": "/assets/pics/anime grills/23-81de287f35.jpg"
+    },
+    {
+      "name": "25-162e27cf38.jpg",
+      "category": "anime grills",
+      "path": "/assets/pics/anime grills/25-162e27cf38.jpg"
+    },
+    {
       "name": "28 Nu.jpg",
       "category": "anime grills",
       "path": "/assets/pics/anime grills/28 Nu.jpg"
@@ -876,6 +926,11 @@ let pics = {
       "name": "28.jpg",
       "category": "anime grills",
       "path": "/assets/pics/anime grills/28.jpg"
+    },
+    {
+      "name": "29-99cc9eaa21.jpg",
+      "category": "anime grills",
+      "path": "/assets/pics/anime grills/29-99cc9eaa21.jpg"
     },
     {
       "name": "2d0d8209ffdf1f4348d8f1200c3970de.jpg",
@@ -893,6 +948,11 @@ let pics = {
       "path": "/assets/pics/anime grills/339df601a466c438d9b79c404d35d942.jpg"
     },
     {
+      "name": "39-8a11f3ccbd.jpg",
+      "category": "anime grills",
+      "path": "/assets/pics/anime grills/39-8a11f3ccbd.jpg"
+    },
+    {
       "name": "39f27222600c385e4217aef14dae0c25.jpg",
       "category": "anime grills",
       "path": "/assets/pics/anime grills/39f27222600c385e4217aef14dae0c25.jpg"
@@ -903,9 +963,24 @@ let pics = {
       "path": "/assets/pics/anime grills/3fbd71e3ae5bf779f2da9565cb0ac088.jpg"
     },
     {
+      "name": "40-638dd730bd.jpg",
+      "category": "anime grills",
+      "path": "/assets/pics/anime grills/40-638dd730bd.jpg"
+    },
+    {
       "name": "40e96504de9f62f85e62dd4c6cc11f32.jpg",
       "category": "anime grills",
       "path": "/assets/pics/anime grills/40e96504de9f62f85e62dd4c6cc11f32.jpg"
+    },
+    {
+      "name": "41-8be97a30c1.jpg",
+      "category": "anime grills",
+      "path": "/assets/pics/anime grills/41-8be97a30c1.jpg"
+    },
+    {
+      "name": "42-9e14b05d57.jpg",
+      "category": "anime grills",
+      "path": "/assets/pics/anime grills/42-9e14b05d57.jpg"
     },
     {
       "name": "42965463957e6a7ebe0e46475d50505d.jpg",
@@ -913,9 +988,44 @@ let pics = {
       "path": "/assets/pics/anime grills/42965463957e6a7ebe0e46475d50505d.jpg"
     },
     {
+      "name": "43-5006b106cb.jpg",
+      "category": "anime grills",
+      "path": "/assets/pics/anime grills/43-5006b106cb.jpg"
+    },
+    {
+      "name": "44-1abbe4598d.jpg",
+      "category": "anime grills",
+      "path": "/assets/pics/anime grills/44-1abbe4598d.jpg"
+    },
+    {
+      "name": "45-122e684489.jpg",
+      "category": "anime grills",
+      "path": "/assets/pics/anime grills/45-122e684489.jpg"
+    },
+    {
       "name": "4e7b93dc9ee842278c7e5d0167286921.jpg",
       "category": "anime grills",
       "path": "/assets/pics/anime grills/4e7b93dc9ee842278c7e5d0167286921.jpg"
+    },
+    {
+      "name": "51-c3a77de1b1.jpg",
+      "category": "anime grills",
+      "path": "/assets/pics/anime grills/51-c3a77de1b1.jpg"
+    },
+    {
+      "name": "56-8594962deb.jpg",
+      "category": "anime grills",
+      "path": "/assets/pics/anime grills/56-8594962deb.jpg"
+    },
+    {
+      "name": "57-3c7e0410b4.jpg",
+      "category": "anime grills",
+      "path": "/assets/pics/anime grills/57-3c7e0410b4.jpg"
+    },
+    {
+      "name": "58-90fda42eae.jpg",
+      "category": "anime grills",
+      "path": "/assets/pics/anime grills/58-90fda42eae.jpg"
     },
     {
       "name": "5b3d7114231a7cae81cc586075aa37b0.jpg",
@@ -948,6 +1058,16 @@ let pics = {
       "path": "/assets/pics/anime grills/67dac9a0861adc3f463c021b7addd032.jpg"
     },
     {
+      "name": "7-f73dae8346.jpg",
+      "category": "anime grills",
+      "path": "/assets/pics/anime grills/7-f73dae8346.jpg"
+    },
+    {
+      "name": "736568bc71e540aae2f0ba016ac6186e.jpg",
+      "category": "anime grills",
+      "path": "/assets/pics/anime grills/736568bc71e540aae2f0ba016ac6186e.jpg"
+    },
+    {
       "name": "77a8ecd2dc2e060eca9664c67a56620f.jpg",
       "category": "anime grills",
       "path": "/assets/pics/anime grills/77a8ecd2dc2e060eca9664c67a56620f.jpg"
@@ -956,6 +1076,11 @@ let pics = {
       "name": "7f50bc2bb8beaf3bb2651c3b4d3e9b03.jpg",
       "category": "anime grills",
       "path": "/assets/pics/anime grills/7f50bc2bb8beaf3bb2651c3b4d3e9b03.jpg"
+    },
+    {
+      "name": "8-72e0e2b8f3.jpg",
+      "category": "anime grills",
+      "path": "/assets/pics/anime grills/8-72e0e2b8f3.jpg"
     },
     {
       "name": "82657be3cc676d077a92df4bee6c3518.jpg",
@@ -986,6 +1111,11 @@ let pics = {
       "name": "8f5cad882d85be8c7ee3edf4170f4414.jpg",
       "category": "anime grills",
       "path": "/assets/pics/anime grills/8f5cad882d85be8c7ee3edf4170f4414.jpg"
+    },
+    {
+      "name": "9-a4e4c3b570.jpg",
+      "category": "anime grills",
+      "path": "/assets/pics/anime grills/9-a4e4c3b570.jpg"
     },
     {
       "name": "9c6c1f5b16310363cae58ffa6423733d.jpg",
@@ -2027,6 +2157,128 @@ let pics = {
       "name": "_76667579_76667578.jpg",
       "category": "doods",
       "path": "/assets/pics/doods/_76667579_76667578.jpg"
+    }
+  ],
+  "other": [
+    {
+      "name": "2018-10-02_011000.jpg",
+      "category": "other",
+      "path": "/assets/pics/other/2018-10-02_011000.jpg"
+    },
+    {
+      "name": "2018-10-02_011017.jpg",
+      "category": "other",
+      "path": "/assets/pics/other/2018-10-02_011017.jpg"
+    },
+    {
+      "name": "2018-10-02_011025.jpg",
+      "category": "other",
+      "path": "/assets/pics/other/2018-10-02_011025.jpg"
+    },
+    {
+      "name": "2018-10-02_011040.jpg",
+      "category": "other",
+      "path": "/assets/pics/other/2018-10-02_011040.jpg"
+    },
+    {
+      "name": "2018-10-02_011049.jpg",
+      "category": "other",
+      "path": "/assets/pics/other/2018-10-02_011049.jpg"
+    },
+    {
+      "name": "2018-10-02_011134.jpg",
+      "category": "other",
+      "path": "/assets/pics/other/2018-10-02_011134.jpg"
+    },
+    {
+      "name": "2018-10-02_011206.jpg",
+      "category": "other",
+      "path": "/assets/pics/other/2018-10-02_011206.jpg"
+    },
+    {
+      "name": "2018-10-02_011225.jpg",
+      "category": "other",
+      "path": "/assets/pics/other/2018-10-02_011225.jpg"
+    },
+    {
+      "name": "2018-10-02_011242.jpg",
+      "category": "other",
+      "path": "/assets/pics/other/2018-10-02_011242.jpg"
+    },
+    {
+      "name": "2018-10-02_011301.jpg",
+      "category": "other",
+      "path": "/assets/pics/other/2018-10-02_011301.jpg"
+    },
+    {
+      "name": "2018-10-02_011314.jpg",
+      "category": "other",
+      "path": "/assets/pics/other/2018-10-02_011314.jpg"
+    },
+    {
+      "name": "2018-10-02_011429.jpg",
+      "category": "other",
+      "path": "/assets/pics/other/2018-10-02_011429.jpg"
+    },
+    {
+      "name": "2018-10-02_011457.jpg",
+      "category": "other",
+      "path": "/assets/pics/other/2018-10-02_011457.jpg"
+    },
+    {
+      "name": "2018-10-02_011535.jpg",
+      "category": "other",
+      "path": "/assets/pics/other/2018-10-02_011535.jpg"
+    },
+    {
+      "name": "2018-10-02_011646.jpg",
+      "category": "other",
+      "path": "/assets/pics/other/2018-10-02_011646.jpg"
+    },
+    {
+      "name": "2018-10-02_011723.jpg",
+      "category": "other",
+      "path": "/assets/pics/other/2018-10-02_011723.jpg"
+    },
+    {
+      "name": "2018-10-02_011734.jpg",
+      "category": "other",
+      "path": "/assets/pics/other/2018-10-02_011734.jpg"
+    },
+    {
+      "name": "2018-10-02_011801.jpg",
+      "category": "other",
+      "path": "/assets/pics/other/2018-10-02_011801.jpg"
+    },
+    {
+      "name": "2018-10-02_011836.jpg",
+      "category": "other",
+      "path": "/assets/pics/other/2018-10-02_011836.jpg"
+    },
+    {
+      "name": "2018-10-02_011936.jpg",
+      "category": "other",
+      "path": "/assets/pics/other/2018-10-02_011936.jpg"
+    },
+    {
+      "name": "2018-10-02_011947.jpg",
+      "category": "other",
+      "path": "/assets/pics/other/2018-10-02_011947.jpg"
+    },
+    {
+      "name": "436250f6f8382dd168dcc5589b7b00b2.jpg",
+      "category": "other",
+      "path": "/assets/pics/other/436250f6f8382dd168dcc5589b7b00b2.jpg"
+    },
+    {
+      "name": "6e1ad41e6c9f1e9dc7c20b57bfa964fa.jpg",
+      "category": "other",
+      "path": "/assets/pics/other/6e1ad41e6c9f1e9dc7c20b57bfa964fa.jpg"
+    },
+    {
+      "name": "bb758bd5ad9a1d44d54d34e656411a4d.jpg",
+      "category": "other",
+      "path": "/assets/pics/other/bb758bd5ad9a1d44d54d34e656411a4d.jpg"
     }
   ],
   "ren and stimpy": [
