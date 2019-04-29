@@ -1,4 +1,293 @@
 let pics = {
+  "animals": [
+    {
+      "name": "111918.AG_.JSColumn1.jpeg",
+      "category": "animals",
+      "path": "/assets/pics/animals/111918.AG_.JSColumn1.jpeg"
+    },
+    {
+      "name": "413474560.jpg",
+      "category": "animals",
+      "path": "/assets/pics/animals/413474560.jpg"
+    },
+    {
+      "name": "5.jpg",
+      "category": "animals",
+      "path": "/assets/pics/animals/5.jpg"
+    },
+    {
+      "name": "5c1ad9ab102e1.image.jpg",
+      "category": "animals",
+      "path": "/assets/pics/animals/5c1ad9ab102e1.image.jpg"
+    },
+    {
+      "name": "9-weeks-Tweed.jpg",
+      "category": "animals",
+      "path": "/assets/pics/animals/9-weeks-Tweed.jpg"
+    },
+    {
+      "name": "A-fluffy-cat-looking-funny-surprised-or-concerned.jpg",
+      "category": "animals",
+      "path": "/assets/pics/animals/A-fluffy-cat-looking-funny-surprised-or-concerned.jpg"
+    },
+    {
+      "name": "AL_scared_cat_jt_151225_16x9_992.jpg",
+      "category": "animals",
+      "path": "/assets/pics/animals/AL_scared_cat_jt_151225_16x9_992.jpg"
+    },
+    {
+      "name": "Capture2_grande.jpeg",
+      "category": "animals",
+      "path": "/assets/pics/animals/Capture2_grande.jpeg"
+    },
+    {
+      "name": "Cat-hd-wallpapers.jpg",
+      "category": "animals",
+      "path": "/assets/pics/animals/Cat-hd-wallpapers.jpg"
+    },
+    {
+      "name": "F1SavannahCat-7.jpg",
+      "category": "animals",
+      "path": "/assets/pics/animals/F1SavannahCat-7.jpg"
+    },
+    {
+      "name": "Fotolia_58941902_Subscription_Monthly_M.jpg",
+      "category": "animals",
+      "path": "/assets/pics/animals/Fotolia_58941902_Subscription_Monthly_M.jpg"
+    },
+    {
+      "name": "Savannah-1-645mk062211.jpg",
+      "category": "animals",
+      "path": "/assets/pics/animals/Savannah-1-645mk062211.jpg"
+    },
+    {
+      "name": "cat-adult-landing-hero.jpg",
+      "category": "animals",
+      "path": "/assets/pics/animals/cat-adult-landing-hero.jpg"
+    },
+    {
+      "name": "file_2706_bengal-cat-breed-picture.jpg",
+      "category": "animals",
+      "path": "/assets/pics/animals/file_2706_bengal-cat-breed-picture.jpg"
+    },
+    {
+      "name": "grey-cat-kitten-walking-gracefully-along-white-background-100726913.jpg",
+      "category": "animals",
+      "path": "/assets/pics/animals/grey-cat-kitten-walking-gracefully-along-white-background-100726913.jpg"
+    },
+    {
+      "name": "hqdefault.jpg",
+      "category": "animals",
+      "path": "/assets/pics/animals/hqdefault.jpg"
+    },
+    {
+      "name": "iStock_000044061370_Medium-fa5f8aa.jpg",
+      "category": "animals",
+      "path": "/assets/pics/animals/iStock_000044061370_Medium-fa5f8aa.jpg"
+    },
+    {
+      "name": "images.jpeg",
+      "category": "animals",
+      "path": "/assets/pics/animals/images.jpeg"
+    },
+    {
+      "name": "provecta_for_pets_cats_hero_550_opt.png",
+      "category": "animals",
+      "path": "/assets/pics/animals/provecta_for_pets_cats_hero_550_opt.png"
+    },
+    {
+      "name": "squelette-chat-EN-FI.png",
+      "category": "animals",
+      "path": "/assets/pics/animals/squelette-chat-EN-FI.png"
+    }
+  ],
+  "anime anatomy": [
+    {
+      "name": "1ayrCsF.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/1ayrCsF.jpg"
+    },
+    {
+      "name": "5112uwr.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/5112uwr.jpg"
+    },
+    {
+      "name": "5q0KCUK.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/5q0KCUK.jpg"
+    },
+    {
+      "name": "6I0URjx.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/6I0URjx.jpg"
+    },
+    {
+      "name": "8CZlp5a.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/8CZlp5a.jpg"
+    },
+    {
+      "name": "A4Q4D7n.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/A4Q4D7n.jpg"
+    },
+    {
+      "name": "AVqnIBn.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/AVqnIBn.jpg"
+    },
+    {
+      "name": "DCZHo61.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/DCZHo61.jpg"
+    },
+    {
+      "name": "FdNuffY.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/FdNuffY.jpg"
+    },
+    {
+      "name": "LY7729V.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/LY7729V.jpg"
+    },
+    {
+      "name": "N9IBbnA.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/N9IBbnA.jpg"
+    },
+    {
+      "name": "NKEuhA8.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/NKEuhA8.jpg"
+    },
+    {
+      "name": "PTNBO26.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/PTNBO26.jpg"
+    },
+    {
+      "name": "Q19BCDm.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/Q19BCDm.jpg"
+    },
+    {
+      "name": "QL6K8pa.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/QL6K8pa.jpg"
+    },
+    {
+      "name": "QQ1IIxs.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/QQ1IIxs.jpg"
+    },
+    {
+      "name": "R7hCg9E.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/R7hCg9E.jpg"
+    },
+    {
+      "name": "T2fj2rz.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/T2fj2rz.jpg"
+    },
+    {
+      "name": "Td3K3jH.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/Td3K3jH.jpg"
+    },
+    {
+      "name": "VHG2MLe.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/VHG2MLe.jpg"
+    },
+    {
+      "name": "Xwl5YrY.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/Xwl5YrY.jpg"
+    },
+    {
+      "name": "ZvkHJ4R.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/ZvkHJ4R.jpg"
+    },
+    {
+      "name": "a9ughfP.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/a9ughfP.jpg"
+    },
+    {
+      "name": "dfz2zNA.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/dfz2zNA.jpg"
+    },
+    {
+      "name": "dqZU3tt.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/dqZU3tt.jpg"
+    },
+    {
+      "name": "jdMFDcv.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/jdMFDcv.jpg"
+    },
+    {
+      "name": "lObyAyr.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/lObyAyr.jpg"
+    },
+    {
+      "name": "ly9O2MN.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/ly9O2MN.jpg"
+    },
+    {
+      "name": "mAOHbhi.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/mAOHbhi.jpg"
+    },
+    {
+      "name": "o5NnSJ4.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/o5NnSJ4.jpg"
+    },
+    {
+      "name": "oeuiqDM.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/oeuiqDM.jpg"
+    },
+    {
+      "name": "pIt1Que.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/pIt1Que.jpg"
+    },
+    {
+      "name": "qFQYK3v.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/qFQYK3v.jpg"
+    },
+    {
+      "name": "qqs6t3x.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/qqs6t3x.jpg"
+    },
+    {
+      "name": "spFMK6a.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/spFMK6a.jpg"
+    },
+    {
+      "name": "y77xlqw.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/y77xlqw.jpg"
+    },
+    {
+      "name": "ysBn6k0.jpg",
+      "category": "anime anatomy",
+      "path": "/assets/pics/anime anatomy/ysBn6k0.jpg"
+    }
+  ],
   "anime doods": [
     {
       "name": "2018-09-01_015859.jpg",
@@ -2756,6 +3045,46 @@ let pics = {
       "path": "/assets/pics/doods/97a7a8e104a45624508206258e642712.jpg"
     },
     {
+      "name": "IMG_8839-retouched.jpg",
+      "category": "doods",
+      "path": "/assets/pics/doods/IMG_8839-retouched.jpg"
+    },
+    {
+      "name": "Marek-Novak-Model-2014-Beach-Photo-Shoot-002.jpg",
+      "category": "doods",
+      "path": "/assets/pics/doods/Marek-Novak-Model-2014-Beach-Photo-Shoot-002.jpg"
+    },
+    {
+      "name": "Mariano-Ontanon-Mens-Health-Spain-2015-Photo-Shoot-011.jpg",
+      "category": "doods",
+      "path": "/assets/pics/doods/Mariano-Ontanon-Mens-Health-Spain-2015-Photo-Shoot-011.jpg"
+    },
+    {
+      "name": "Men_crossfit_workoutTire_453466.jpg",
+      "category": "doods",
+      "path": "/assets/pics/doods/Men_crossfit_workoutTire_453466.jpg"
+    },
+    {
+      "name": "Mens-Fashion-Style-Outfits-Ideas-93.jpg",
+      "category": "doods",
+      "path": "/assets/pics/doods/Mens-Fashion-Style-Outfits-Ideas-93.jpg"
+    },
+    {
+      "name": "NIGEL_FLOOR.jpg",
+      "category": "doods",
+      "path": "/assets/pics/doods/NIGEL_FLOOR.jpg"
+    },
+    {
+      "name": "Untitled-10.jpg",
+      "category": "doods",
+      "path": "/assets/pics/doods/Untitled-10.jpg"
+    },
+    {
+      "name": "_76667579_76667578.jpg",
+      "category": "doods",
+      "path": "/assets/pics/doods/_76667579_76667578.jpg"
+    },
+    {
       "name": "a00ccd463e2e96a011957782e2ae6129.jpg",
       "category": "doods",
       "path": "/assets/pics/doods/a00ccd463e2e96a011957782e2ae6129.jpg"
@@ -2811,6 +3140,11 @@ let pics = {
       "path": "/assets/pics/doods/c2cdc6ed805b92052df24b1b557935c4.jpg"
     },
     {
+      "name": "cTglPEpjiWZl.jpg",
+      "category": "doods",
+      "path": "/assets/pics/doods/cTglPEpjiWZl.jpg"
+    },
+    {
       "name": "cb54f69352531.560cce2592d9f.png",
       "category": "doods",
       "path": "/assets/pics/doods/cb54f69352531.560cce2592d9f.png"
@@ -2834,11 +3168,6 @@ let pics = {
       "name": "crossfit-1.jpg",
       "category": "doods",
       "path": "/assets/pics/doods/crossfit-1.jpg"
-    },
-    {
-      "name": "cTglPEpjiWZl.jpg",
-      "category": "doods",
-      "path": "/assets/pics/doods/cTglPEpjiWZl.jpg"
     },
     {
       "name": "d20a716875c0d2b2dac17653de1f14f6.jpg",
@@ -2966,24 +3295,9 @@ let pics = {
       "path": "/assets/pics/doods/images (8).jpeg"
     },
     {
-      "name": "IMG_8839-retouched.jpg",
-      "category": "doods",
-      "path": "/assets/pics/doods/IMG_8839-retouched.jpg"
-    },
-    {
       "name": "main-l.jpg",
       "category": "doods",
       "path": "/assets/pics/doods/main-l.jpg"
-    },
-    {
-      "name": "Marek-Novak-Model-2014-Beach-Photo-Shoot-002.jpg",
-      "category": "doods",
-      "path": "/assets/pics/doods/Marek-Novak-Model-2014-Beach-Photo-Shoot-002.jpg"
-    },
-    {
-      "name": "Mariano-Ontanon-Mens-Health-Spain-2015-Photo-Shoot-011.jpg",
-      "category": "doods",
-      "path": "/assets/pics/doods/Mariano-Ontanon-Mens-Health-Spain-2015-Photo-Shoot-011.jpg"
     },
     {
       "name": "mateus-verdelho-and-eating-gallery.jpg",
@@ -2991,24 +3305,9 @@ let pics = {
       "path": "/assets/pics/doods/mateus-verdelho-and-eating-gallery.jpg"
     },
     {
-      "name": "Mens-Fashion-Style-Outfits-Ideas-93.jpg",
-      "category": "doods",
-      "path": "/assets/pics/doods/Mens-Fashion-Style-Outfits-Ideas-93.jpg"
-    },
-    {
-      "name": "Men_crossfit_workoutTire_453466.jpg",
-      "category": "doods",
-      "path": "/assets/pics/doods/Men_crossfit_workoutTire_453466.jpg"
-    },
-    {
       "name": "nigel.jpg",
       "category": "doods",
       "path": "/assets/pics/doods/nigel.jpg"
-    },
-    {
-      "name": "NIGEL_FLOOR.jpg",
-      "category": "doods",
-      "path": "/assets/pics/doods/NIGEL_FLOOR.jpg"
     },
     {
       "name": "photo-session-studio_14.jpg",
@@ -3019,16 +3318,6 @@ let pics = {
       "name": "stock-photo-young-sexy-male-model-posing-without-shirt-153234497.jpg",
       "category": "doods",
       "path": "/assets/pics/doods/stock-photo-young-sexy-male-model-posing-without-shirt-153234497.jpg"
-    },
-    {
-      "name": "Untitled-10.jpg",
-      "category": "doods",
-      "path": "/assets/pics/doods/Untitled-10.jpg"
-    },
-    {
-      "name": "_76667579_76667578.jpg",
-      "category": "doods",
-      "path": "/assets/pics/doods/_76667579_76667578.jpg"
     }
   ],
   "expressions": [
@@ -3286,41 +3575,6 @@ let pics = {
       "name": "39-8a11f3ccbd.jpg",
       "category": "expressions",
       "path": "/assets/pics/expressions/39-8a11f3ccbd.jpg"
-    },
-    {
-      "name": "alita.png",
-      "category": "expressions",
-      "path": "/assets/pics/expressions/alita.png"
-    },
-    {
-      "name": "bt_contents_01_02_02.jpg",
-      "category": "expressions",
-      "path": "/assets/pics/expressions/bt_contents_01_02_02.jpg"
-    },
-    {
-      "name": "bt_contents_01_02_03.jpg",
-      "category": "expressions",
-      "path": "/assets/pics/expressions/bt_contents_01_02_03.jpg"
-    },
-    {
-      "name": "bt_contents_01_03_04.jpg",
-      "category": "expressions",
-      "path": "/assets/pics/expressions/bt_contents_01_03_04.jpg"
-    },
-    {
-      "name": "bt_contents_01_10_02.jpg",
-      "category": "expressions",
-      "path": "/assets/pics/expressions/bt_contents_01_10_02.jpg"
-    },
-    {
-      "name": "bt_contents_03_01_02.jpg",
-      "category": "expressions",
-      "path": "/assets/pics/expressions/bt_contents_03_01_02.jpg"
-    },
-    {
-      "name": "ce9e3ab1c6f9ca04de8ca88f03b95eed.jpg",
-      "category": "expressions",
-      "path": "/assets/pics/expressions/ce9e3ab1c6f9ca04de8ca88f03b95eed.jpg"
     },
     {
       "name": "Screenshot from 2019-03-28 14-27-33.png",
@@ -4433,6 +4687,41 @@ let pics = {
       "path": "/assets/pics/expressions/Screenshot from 2019-04-03 16-34-02.png"
     },
     {
+      "name": "alita.png",
+      "category": "expressions",
+      "path": "/assets/pics/expressions/alita.png"
+    },
+    {
+      "name": "bt_contents_01_02_02.jpg",
+      "category": "expressions",
+      "path": "/assets/pics/expressions/bt_contents_01_02_02.jpg"
+    },
+    {
+      "name": "bt_contents_01_02_03.jpg",
+      "category": "expressions",
+      "path": "/assets/pics/expressions/bt_contents_01_02_03.jpg"
+    },
+    {
+      "name": "bt_contents_01_03_04.jpg",
+      "category": "expressions",
+      "path": "/assets/pics/expressions/bt_contents_01_03_04.jpg"
+    },
+    {
+      "name": "bt_contents_01_10_02.jpg",
+      "category": "expressions",
+      "path": "/assets/pics/expressions/bt_contents_01_10_02.jpg"
+    },
+    {
+      "name": "bt_contents_03_01_02.jpg",
+      "category": "expressions",
+      "path": "/assets/pics/expressions/bt_contents_03_01_02.jpg"
+    },
+    {
+      "name": "ce9e3ab1c6f9ca04de8ca88f03b95eed.jpg",
+      "category": "expressions",
+      "path": "/assets/pics/expressions/ce9e3ab1c6f9ca04de8ca88f03b95eed.jpg"
+    },
+    {
       "name": "tumblr_nnu7xtzqy01rl3tlpo2_1280.jpg",
       "category": "expressions",
       "path": "/assets/pics/expressions/tumblr_nnu7xtzqy01rl3tlpo2_1280.jpg"
@@ -5025,6 +5314,473 @@ let pics = {
       "path": "/assets/pics/grills/2019-03-06_211810.jpg"
     }
   ],
+  "infographics": [
+    {
+      "name": "Andrew Loomis - Male and Female Skeleton.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Andrew Loomis - Male and Female Skeleton.jpg"
+    },
+    {
+      "name": "Anonymous - Line Weight.png",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Anonymous - Line Weight.png"
+    },
+    {
+      "name": "Aranda - Hips.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Aranda - Hips.jpg"
+    },
+    {
+      "name": "Aranda - Shoulders.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Aranda - Shoulders.jpg"
+    },
+    {
+      "name": "Arne Niklas Jansson - Concept Art Process.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Arne Niklas Jansson - Concept Art Process.jpg"
+    },
+    {
+      "name": "Bert Dodson - Assisted Measuring Techniques 1 of 2.png",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Bert Dodson - Assisted Measuring Techniques 1 of 2.png"
+    },
+    {
+      "name": "Bert Dodson - Assisted Measuring Techniques 2 of 2.png",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Bert Dodson - Assisted Measuring Techniques 2 of 2.png"
+    },
+    {
+      "name": "Bumskee - Rendering Tips.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Bumskee - Rendering Tips.jpg"
+    },
+    {
+      "name": "Canadian-Rainwater - Muscles of the Arm.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Canadian-Rainwater - Muscles of the Arm.jpg"
+    },
+    {
+      "name": "Cedardseed - Emotion & Expression.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Cedardseed - Emotion & Expression.jpg"
+    },
+    {
+      "name": "Chinpo and Pow - Patreon Guide.png",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Chinpo and Pow - Patreon Guide.png"
+    },
+    {
+      "name": "Color Zones.png",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Color Zones.png"
+    },
+    {
+      "name": "Coyotemange - Fur Tutorial (2).jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Coyotemange - Fur Tutorial (2).jpg"
+    },
+    {
+      "name": "DIYPhotography.net - Portrait Lighting Examples.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/DIYPhotography.net - Portrait Lighting Examples.jpg"
+    },
+    {
+      "name": "Digital Camera World - Lighting Guide.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Digital Camera World - Lighting Guide.jpg"
+    },
+    {
+      "name": "Doxy - Doxy's Boob Toot.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Doxy - Doxy's Boob Toot.jpg"
+    },
+    {
+      "name": "Doxy - Doxy's Hip Toot.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Doxy - Doxy's Hip Toot.jpg"
+    },
+    {
+      "name": "Doxy - Doxy's Notes; Anime Eyes.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Doxy - Doxy's Notes; Anime Eyes.jpg"
+    },
+    {
+      "name": "Doxy - Doxy's Notes; Arms.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Doxy - Doxy's Notes; Arms.jpg"
+    },
+    {
+      "name": "Doxy - Doxy's Notes; Blob Sketching.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Doxy - Doxy's Notes; Blob Sketching.jpg"
+    },
+    {
+      "name": "Doxy - Doxy's Notes; Cel Shading Tips.png",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Doxy - Doxy's Notes; Cel Shading Tips.png"
+    },
+    {
+      "name": "Doxy - Doxy's Notes; Copy Tips.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Doxy - Doxy's Notes; Copy Tips.jpg"
+    },
+    {
+      "name": "Doxy - Doxy's Notes; Femur Shorthand.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Doxy - Doxy's Notes; Femur Shorthand.jpg"
+    },
+    {
+      "name": "Doxy - Doxy's Notes; Foreshortening Tip.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Doxy - Doxy's Notes; Foreshortening Tip.jpg"
+    },
+    {
+      "name": "Doxy - Doxy's Notes; Hand Notes.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Doxy - Doxy's Notes; Hand Notes.jpg"
+    },
+    {
+      "name": "Doxy - Doxy's Notes; Head Structure Guide.png",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Doxy - Doxy's Notes; Head Structure Guide.png"
+    },
+    {
+      "name": "Doxy - Doxy's Notes; Hip and Torso Breakdown.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Doxy - Doxy's Notes; Hip and Torso Breakdown.jpg"
+    },
+    {
+      "name": "Doxy - Doxy's Notes; How to Trace a Reference Material.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Doxy - Doxy's Notes; How to Trace a Reference Material.jpg"
+    },
+    {
+      "name": "Doxy - Doxy's Notes; How-to Reference.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Doxy - Doxy's Notes; How-to Reference.jpg"
+    },
+    {
+      "name": "Doxy - Doxy's Notes; Inking Red.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Doxy - Doxy's Notes; Inking Red.jpg"
+    },
+    {
+      "name": "Doxy - Doxy's Notes; Realistic Eyes.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Doxy - Doxy's Notes; Realistic Eyes.jpg"
+    },
+    {
+      "name": "Doxy - Doxy's Notes; Shoulder Girdle and Arm.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Doxy - Doxy's Notes; Shoulder Girdle and Arm.jpg"
+    },
+    {
+      "name": "Doxy - Doxy's Notes; Toon Eyes.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Doxy - Doxy's Notes; Toon Eyes.jpg"
+    },
+    {
+      "name": "Doxy - Doxy's Notes; Z Armpit.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Doxy - Doxy's Notes; Z Armpit.jpg"
+    },
+    {
+      "name": "Doxy - Fantasy Wood.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Doxy - Fantasy Wood.jpg"
+    },
+    {
+      "name": "Doxy - Feature Distribution.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Doxy - Feature Distribution.jpg"
+    },
+    {
+      "name": "Doxy - Shiny Things.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Doxy - Shiny Things.jpg"
+    },
+    {
+      "name": "Doxy and Seel - Braids.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Doxy and Seel - Braids.jpg"
+    },
+    {
+      "name": "Doxy and Seel - Stylized Iris Rendering.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Doxy and Seel - Stylized Iris Rendering.jpg"
+    },
+    {
+      "name": "Doxy and Seel - Water Shinies.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Doxy and Seel - Water Shinies.jpg"
+    },
+    {
+      "name": "Doxy and Seely - Metal Shinies.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Doxy and Seely - Metal Shinies.jpg"
+    },
+    {
+      "name": "Doxy's Notes - Comcis; Sketch to Ink.png",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Doxy's Notes - Comcis; Sketch to Ink.png"
+    },
+    {
+      "name": "Dreamworlds - Notes on Composition.png",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Dreamworlds - Notes on Composition.png"
+    },
+    {
+      "name": "Kelly Turnbull - Drawing Abs.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Kelly Turnbull - Drawing Abs.jpg"
+    },
+    {
+      "name": "Kitajima - Feet(Business Shoes).jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Kitajima - Feet(Business Shoes).jpg"
+    },
+    {
+      "name": "Kitajima - Foot (left).jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Kitajima - Foot (left).jpg"
+    },
+    {
+      "name": "Kitajima - Hands (ball).jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Kitajima - Hands (ball).jpg"
+    },
+    {
+      "name": "Kitajima - Hands(1).jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Kitajima - Hands(1).jpg"
+    },
+    {
+      "name": "Kitajima - Hands(2).jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Kitajima - Hands(2).jpg"
+    },
+    {
+      "name": "Kitajima - Hands(Gun).jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Kitajima - Hands(Gun).jpg"
+    },
+    {
+      "name": "Larry Wilson - Lighting and Painting Tutorial.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Larry Wilson - Lighting and Painting Tutorial.jpg"
+    },
+    {
+      "name": "Lauren Cannon - Skin Tones.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Lauren Cannon - Skin Tones.jpg"
+    },
+    {
+      "name": "London Atelier - Basic Figure Drawing.png",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/London Atelier - Basic Figure Drawing.png"
+    },
+    {
+      "name": "Lulie - Composition.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Lulie - Composition.jpg"
+    },
+    {
+      "name": "Masters of Anatomy - Turnaround.gif",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Masters of Anatomy - Turnaround.gif"
+    },
+    {
+      "name": "Neal Anderson - Female Body Types.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Neal Anderson - Female Body Types.jpg"
+    },
+    {
+      "name": "Nsio - Advanced Dynamism.png",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Nsio - Advanced Dynamism.png"
+    },
+    {
+      "name": "Nsio - Breasts.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Nsio - Breasts.jpg"
+    },
+    {
+      "name": "Nsio - Constructing and Analyzing.png",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Nsio - Constructing and Analyzing.png"
+    },
+    {
+      "name": "Nsio - Distortion.png",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Nsio - Distortion.png"
+    },
+    {
+      "name": "Nsio - Dynamism.png",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Nsio - Dynamism.png"
+    },
+    {
+      "name": "Nsio - Facial Proportions.png",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Nsio - Facial Proportions.png"
+    },
+    {
+      "name": "Nsio - Foreshortening.png",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Nsio - Foreshortening.png"
+    },
+    {
+      "name": "Nsio - Introduction to Guidelines.png",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Nsio - Introduction to Guidelines.png"
+    },
+    {
+      "name": "Nsio - Know the Rules.png",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Nsio - Know the Rules.png"
+    },
+    {
+      "name": "Nsio - Learning Order to Human Character Drawing.png",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Nsio - Learning Order to Human Character Drawing.png"
+    },
+    {
+      "name": "Nsio - Line Dynamics.png",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Nsio - Line Dynamics.png"
+    },
+    {
+      "name": "Nsio - Perspective.png",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Nsio - Perspective.png"
+    },
+    {
+      "name": "Nsio - Psychological Take on Making Art.png",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Nsio - Psychological Take on Making Art.png"
+    },
+    {
+      "name": "Nsio - Simplifying Complexity.png",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Nsio - Simplifying Complexity.png"
+    },
+    {
+      "name": "Nsio - Understanding 3D.png",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Nsio - Understanding 3D.png"
+    },
+    {
+      "name": "Nsio - Understanding Proportions.png",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Nsio - Understanding Proportions.png"
+    },
+    {
+      "name": "Nsio - the Way I See the World.png",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Nsio - the Way I See the World.png"
+    },
+    {
+      "name": "Solstice-11's Hand Tutorial.png",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Solstice-11's Hand Tutorial.png"
+    },
+    {
+      "name": "Stan Prokopenko - How to Draw Ears.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Stan Prokopenko - How to Draw Ears.jpg"
+    },
+    {
+      "name": "Stan Prokopenko - How to Draw Hair.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Stan Prokopenko - How to Draw Hair.jpg"
+    },
+    {
+      "name": "Stan Prokopenko - How to Draw Lips.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Stan Prokopenko - How to Draw Lips.jpg"
+    },
+    {
+      "name": "Stan Prokopenko - How to Draw the Eyes.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Stan Prokopenko - How to Draw the Eyes.jpg"
+    },
+    {
+      "name": "Stan Prokopenko - How to Draw the Head (from Any Angle).jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Stan Prokopenko - How to Draw the Head (from Any Angle).jpg"
+    },
+    {
+      "name": "Stan Prokopenko - How to Draw the Nose.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Stan Prokopenko - How to Draw the Nose.jpg"
+    },
+    {
+      "name": "Stan Prokopenko - Landmarks of the Human Body.png",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Stan Prokopenko - Landmarks of the Human Body.png"
+    },
+    {
+      "name": "Stan Prokopenko - Proportions Canon.png",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Stan Prokopenko - Proportions Canon.png"
+    },
+    {
+      "name": "Tracy Butler - Notes on Expressions.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Tracy Butler - Notes on Expressions.jpg"
+    },
+    {
+      "name": "Tracy Butler - Thumbnailing; Gesture.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Tracy Butler - Thumbnailing; Gesture.jpg"
+    },
+    {
+      "name": "Unknown - Color Zones.png",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Unknown - Color Zones.png"
+    },
+    {
+      "name": "Unknown - Hands.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Unknown - Hands.jpg"
+    },
+    {
+      "name": "Unknown - Lighting.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Unknown - Lighting.jpg"
+    },
+    {
+      "name": "Unknown - Major Muscle Groups.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Unknown - Major Muscle Groups.jpg"
+    },
+    {
+      "name": "Xuu - How to Draw Anything.png",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/Xuu - How to Draw Anything.png"
+    },
+    {
+      "name": "ctJemm - Blending.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/ctJemm - Blending.jpg"
+    },
+    {
+      "name": "the Artist's Complete Guide to Drawing - Value and Form (1).jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/the Artist's Complete Guide to Drawing - Value and Form (1).jpg"
+    },
+    {
+      "name": "the Artist's Complete Guide to Drawing - Value and Form (2).jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/the Artist's Complete Guide to Drawing - Value and Form (2).jpg"
+    },
+    {
+      "name": "the Weatherly Guide to Drawing Animals - Principles of Construction.jpg",
+      "category": "infographics",
+      "path": "/assets/pics/infographics/the Weatherly Guide to Drawing Animals - Principles of Construction.jpg"
+    }
+  ],
   "kim": [
     {
       "name": "a006.jpg",
@@ -5589,14 +6345,14 @@ let pics = {
       "path": "/assets/pics/other/6e1ad41e6c9f1e9dc7c20b57bfa964fa.jpg"
     },
     {
-      "name": "bb758bd5ad9a1d44d54d34e656411a4d.jpg",
-      "category": "other",
-      "path": "/assets/pics/other/bb758bd5ad9a1d44d54d34e656411a4d.jpg"
-    },
-    {
       "name": "Screenshot from 2019-04-03 16-06-23.png",
       "category": "other",
       "path": "/assets/pics/other/Screenshot from 2019-04-03 16-06-23.png"
+    },
+    {
+      "name": "bb758bd5ad9a1d44d54d34e656411a4d.jpg",
+      "category": "other",
+      "path": "/assets/pics/other/bb758bd5ad9a1d44d54d34e656411a4d.jpg"
     }
   ],
   "ren and stimpy": [
