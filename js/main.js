@@ -12,6 +12,7 @@ let default_settings = {
 
 let drawing = false;
 let pic_elem = document.getElementById('pic');
+let info_elem = document.getElementById('info');
 let timer_elem = document.getElementById('timer');
 let count_elem = document.getElementById('count');
 
@@ -38,7 +39,9 @@ let timer;
 let prev_date;
 let win = false;
 let paused = false;
+let zoomed = false;
 let loading = false;
+let zoom_rate = 1.3;
 
 function nextPic() {
   changePic();
@@ -51,6 +54,7 @@ function nextPic() {
 }
 
 function changePic() {
+  zoomed = false;
   if (curpic) curpic.done = true;
   nextCategory();
   curpic = findPic();
@@ -74,9 +78,31 @@ function nextCategory() {
   current_category = categories_selected[current_category_index];
 }
 
-function skipPic() {
+function skipPic(e) {
+  if (e.ctrlKey) return;
   changePic();
   resetTimer();
+}
+
+function clickOnPic(e) {
+  if (e.ctrlKey) {
+    toggleZoom();
+  }
+  else {
+    pause();
+  }
+}
+
+function toggleZoom() {
+  if (zoomed) {
+    fitPic();
+    zoomed = false;
+  }
+  else {
+    pic_elem.width = pic_elem.naturalWidth;
+    pic_elem.height = pic_elem.naturalHeight;
+    zoomed = true;
+  }
 }
 
 function pause() {
@@ -97,14 +123,38 @@ init();
 function init() {
   loadSettings();
   pic_elem.addEventListener('dblclick', skipPic, false);
-  pic_elem.addEventListener('click', pause, false);
+  pic_elem.addEventListener('click', clickOnPic, false);
   pic_elem.addEventListener('load', picHasLoaded, false);
+  document.body.addEventListener('keydown', keyGrab, false);
   document.getElementById('start_button').addEventListener('click', start, false);
   document.getElementById('options').addEventListener('click', updateETA, false);
+  window.addEventListener('scroll', toggleInfoOpacity, false);
   createCategories();
   updateOptionsWithSettings();
   updateETA();
   monitorHash();
+}
+
+function keyGrab(e) {
+  // zoom in
+  if (e.key === '+') {
+    pic_elem.width *= zoom_rate;
+    pic_elem.height *= zoom_rate;
+  }
+  // zoom out
+  if (e.key === '-') {
+    pic_elem.width /= zoom_rate;
+    pic_elem.height /= zoom_rate;
+  }
+}
+
+function toggleInfoOpacity(e) {
+  if (document.body.scrollTop < 10) {
+    info_elem.style.opacity = 1;
+  }
+  else {
+    info_elem.style.opacity = 0.15;
+  }
 }
 
 function loadPic(paf) {
@@ -118,6 +168,23 @@ function picHasLoaded() {
   document.getElementById('loading').hidden = true;
   pic_elem.hidden = false;
   loading = false;
+  fitPic();
+}
+
+function fitPic() {
+  pic_elem.removeAttribute('width');
+  pic_elem.removeAttribute('height');
+  let parent_box = pic_elem.parentElement.getBoundingClientRect();
+  if (pic_elem.width > parent_box.width) {
+    let nu_perc = parent_box.width / pic_elem.width;
+    pic_elem.height = pic_elem.height * nu_perc;
+    pic_elem.width = parent_box.width;
+  }
+  if (pic_elem.height > parent_box.height) {
+    let nu_perc = parent_box.height / pic_elem.height;
+    pic_elem.width = pic_elem.width * nu_perc;
+    pic_elem.height = parent_box.height;
+  }
 }
 
 function loadSettings() {
@@ -157,7 +224,7 @@ function createCategories() {
   let u = document.getElementById('categories_ul');
   for (let i = 0; i < categories.length; i++) {
     u.innerHTML += `<li><input type="checkbox" name="categories" value="${categories[i]}" id="categories_${categories[i]}">
-    <label for="categories_${categories[i]}">${categories[i]}</label></li>`;    
+    <label for="categories_${categories[i]}">${categories[i]}</label></li>`;
   }
 }
 

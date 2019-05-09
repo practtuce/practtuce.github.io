@@ -25,14 +25,17 @@ body {
 }
 
 #info {
+  position: fixed;
   width: 100%;
+  top: 0;
+  right: 0;
   font-family: 'Freckle Face', cursive;
   color: #252525;
   text-shadow: 0 -3px 2px #e6665cb5;
 }
 
 #timer {
-  font-size: 50px;
+  font-size: 40px;
 }
 
 #count {
@@ -40,9 +43,10 @@ body {
 }
 
 #pic {
-  max-width: 100%;
-  max-height: 100%;
+  /* max-width: 100%;
+  max-height: 100%; */
   box-shadow: 0px 5px 16px -5px black;
+  margin-top: 76px;
 }
 
 .options_div {
@@ -128,7 +132,7 @@ body {
     display: inline-block;
     margin: 5px 10px 15px;
   }
-  
+
   .butt {
     margin: 10px 0 60px;
     padding: 10px;
@@ -140,7 +144,7 @@ body {
 
     /* width: 6em; */
   }
-  
+
   #categories {
     margin: 30px auto 20px;
   }
@@ -156,7 +160,7 @@ body {
   .categories_ul_container {
     width: 100%;
   }
-  
+
   .titleee {
     text-align: center;
     margin: 20px 0 35px;
