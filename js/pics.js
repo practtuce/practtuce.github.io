@@ -1,4 +1,116 @@
 let pics = {
+  "ancient drawings guy": [
+    {
+      "name": "35GGtnL.jpg",
+      "category": "ancient drawings guy",
+      "path": "/assets/pics/ancient drawings guy/35GGtnL.jpg"
+    },
+    {
+      "name": "7vbSM4o.jpg",
+      "category": "ancient drawings guy",
+      "path": "/assets/pics/ancient drawings guy/7vbSM4o.jpg"
+    },
+    {
+      "name": "8ovC26B.jpg",
+      "category": "ancient drawings guy",
+      "path": "/assets/pics/ancient drawings guy/8ovC26B.jpg"
+    },
+    {
+      "name": "8w79hNH.jpg",
+      "category": "ancient drawings guy",
+      "path": "/assets/pics/ancient drawings guy/8w79hNH.jpg"
+    },
+    {
+      "name": "Cuvoltj.jpg",
+      "category": "ancient drawings guy",
+      "path": "/assets/pics/ancient drawings guy/Cuvoltj.jpg"
+    },
+    {
+      "name": "I8tkElv.jpg",
+      "category": "ancient drawings guy",
+      "path": "/assets/pics/ancient drawings guy/I8tkElv.jpg"
+    },
+    {
+      "name": "ITzwab6.jpg",
+      "category": "ancient drawings guy",
+      "path": "/assets/pics/ancient drawings guy/ITzwab6.jpg"
+    },
+    {
+      "name": "IyikWg2.jpg",
+      "category": "ancient drawings guy",
+      "path": "/assets/pics/ancient drawings guy/IyikWg2.jpg"
+    },
+    {
+      "name": "KdMY1xn.jpg",
+      "category": "ancient drawings guy",
+      "path": "/assets/pics/ancient drawings guy/KdMY1xn.jpg"
+    },
+    {
+      "name": "Kw1ANAe.jpg",
+      "category": "ancient drawings guy",
+      "path": "/assets/pics/ancient drawings guy/Kw1ANAe.jpg"
+    },
+    {
+      "name": "LFP0kvk.jpg",
+      "category": "ancient drawings guy",
+      "path": "/assets/pics/ancient drawings guy/LFP0kvk.jpg"
+    },
+    {
+      "name": "T7DKq4i.jpg",
+      "category": "ancient drawings guy",
+      "path": "/assets/pics/ancient drawings guy/T7DKq4i.jpg"
+    },
+    {
+      "name": "TklcYbo.jpg",
+      "category": "ancient drawings guy",
+      "path": "/assets/pics/ancient drawings guy/TklcYbo.jpg"
+    },
+    {
+      "name": "YXZIyvp.jpg",
+      "category": "ancient drawings guy",
+      "path": "/assets/pics/ancient drawings guy/YXZIyvp.jpg"
+    },
+    {
+      "name": "hOvZ2t3.jpg",
+      "category": "ancient drawings guy",
+      "path": "/assets/pics/ancient drawings guy/hOvZ2t3.jpg"
+    },
+    {
+      "name": "jiaPXfb.jpg",
+      "category": "ancient drawings guy",
+      "path": "/assets/pics/ancient drawings guy/jiaPXfb.jpg"
+    },
+    {
+      "name": "mE1tw52.jpg",
+      "category": "ancient drawings guy",
+      "path": "/assets/pics/ancient drawings guy/mE1tw52.jpg"
+    },
+    {
+      "name": "nCVzYjd.jpg",
+      "category": "ancient drawings guy",
+      "path": "/assets/pics/ancient drawings guy/nCVzYjd.jpg"
+    },
+    {
+      "name": "oqEE6hM.jpg",
+      "category": "ancient drawings guy",
+      "path": "/assets/pics/ancient drawings guy/oqEE6hM.jpg"
+    },
+    {
+      "name": "prjNZVg.jpg",
+      "category": "ancient drawings guy",
+      "path": "/assets/pics/ancient drawings guy/prjNZVg.jpg"
+    },
+    {
+      "name": "qYmL2ht.jpg",
+      "category": "ancient drawings guy",
+      "path": "/assets/pics/ancient drawings guy/qYmL2ht.jpg"
+    },
+    {
+      "name": "soNPiEO.jpg",
+      "category": "ancient drawings guy",
+      "path": "/assets/pics/ancient drawings guy/soNPiEO.jpg"
+    }
+  ],
   "animals": [
     {
       "name": "111918.AG_.JSColumn1.jpeg",
@@ -6745,6 +6857,583 @@ let pics = {
       "name": "2018-08-27_032420.jpg",
       "category": "ren and stimpy",
       "path": "/assets/pics/ren and stimpy/2018-08-27_032420.jpg"
+    }
+  ],
+  "taco": [
+    {
+      "name": "taco1.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco1.jpg"
+    },
+    {
+      "name": "taco10.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco10.jpg"
+    },
+    {
+      "name": "taco100.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco100.jpg"
+    },
+    {
+      "name": "taco101.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco101.jpg"
+    },
+    {
+      "name": "taco102.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco102.jpg"
+    },
+    {
+      "name": "taco102b.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco102b.jpg"
+    },
+    {
+      "name": "taco103.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco103.jpg"
+    },
+    {
+      "name": "taco104.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco104.jpg"
+    },
+    {
+      "name": "taco105.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco105.jpg"
+    },
+    {
+      "name": "taco106.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco106.jpg"
+    },
+    {
+      "name": "taco107.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco107.jpg"
+    },
+    {
+      "name": "taco108.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco108.jpg"
+    },
+    {
+      "name": "taco109.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco109.jpg"
+    },
+    {
+      "name": "taco11.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco11.jpg"
+    },
+    {
+      "name": "taco110.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco110.jpg"
+    },
+    {
+      "name": "taco111.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco111.jpg"
+    },
+    {
+      "name": "taco112.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco112.jpg"
+    },
+    {
+      "name": "taco113.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco113.jpg"
+    },
+    {
+      "name": "taco114.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco114.jpg"
+    },
+    {
+      "name": "taco115.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco115.jpg"
+    },
+    {
+      "name": "taco12.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco12.jpg"
+    },
+    {
+      "name": "taco13.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco13.jpg"
+    },
+    {
+      "name": "taco14.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco14.jpg"
+    },
+    {
+      "name": "taco15.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco15.jpg"
+    },
+    {
+      "name": "taco16.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco16.jpg"
+    },
+    {
+      "name": "taco17.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco17.jpg"
+    },
+    {
+      "name": "taco18.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco18.jpg"
+    },
+    {
+      "name": "taco19.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco19.jpg"
+    },
+    {
+      "name": "taco2.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco2.jpg"
+    },
+    {
+      "name": "taco20.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco20.jpg"
+    },
+    {
+      "name": "taco21.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco21.jpg"
+    },
+    {
+      "name": "taco22.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco22.jpg"
+    },
+    {
+      "name": "taco23.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco23.jpg"
+    },
+    {
+      "name": "taco24.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco24.jpg"
+    },
+    {
+      "name": "taco25.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco25.jpg"
+    },
+    {
+      "name": "taco26.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco26.jpg"
+    },
+    {
+      "name": "taco27.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco27.jpg"
+    },
+    {
+      "name": "taco28.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco28.jpg"
+    },
+    {
+      "name": "taco29.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco29.jpg"
+    },
+    {
+      "name": "taco3.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco3.jpg"
+    },
+    {
+      "name": "taco30.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco30.jpg"
+    },
+    {
+      "name": "taco31.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco31.jpg"
+    },
+    {
+      "name": "taco32.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco32.jpg"
+    },
+    {
+      "name": "taco33.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco33.jpg"
+    },
+    {
+      "name": "taco34.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco34.jpg"
+    },
+    {
+      "name": "taco35.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco35.jpg"
+    },
+    {
+      "name": "taco36.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco36.jpg"
+    },
+    {
+      "name": "taco37.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco37.jpg"
+    },
+    {
+      "name": "taco38.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco38.jpg"
+    },
+    {
+      "name": "taco39.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco39.jpg"
+    },
+    {
+      "name": "taco4.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco4.jpg"
+    },
+    {
+      "name": "taco40.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco40.jpg"
+    },
+    {
+      "name": "taco41.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco41.jpg"
+    },
+    {
+      "name": "taco42.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco42.jpg"
+    },
+    {
+      "name": "taco43.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco43.jpg"
+    },
+    {
+      "name": "taco44.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco44.jpg"
+    },
+    {
+      "name": "taco45.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco45.jpg"
+    },
+    {
+      "name": "taco46.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco46.jpg"
+    },
+    {
+      "name": "taco47.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco47.jpg"
+    },
+    {
+      "name": "taco48.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco48.jpg"
+    },
+    {
+      "name": "taco49.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco49.jpg"
+    },
+    {
+      "name": "taco5.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco5.jpg"
+    },
+    {
+      "name": "taco50.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco50.jpg"
+    },
+    {
+      "name": "taco51.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco51.jpg"
+    },
+    {
+      "name": "taco52.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco52.jpg"
+    },
+    {
+      "name": "taco53.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco53.jpg"
+    },
+    {
+      "name": "taco54.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco54.jpg"
+    },
+    {
+      "name": "taco55.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco55.jpg"
+    },
+    {
+      "name": "taco56.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco56.jpg"
+    },
+    {
+      "name": "taco57.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco57.jpg"
+    },
+    {
+      "name": "taco58.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco58.jpg"
+    },
+    {
+      "name": "taco59.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco59.jpg"
+    },
+    {
+      "name": "taco6.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco6.jpg"
+    },
+    {
+      "name": "taco60.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco60.jpg"
+    },
+    {
+      "name": "taco61.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco61.jpg"
+    },
+    {
+      "name": "taco62.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco62.jpg"
+    },
+    {
+      "name": "taco63.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco63.jpg"
+    },
+    {
+      "name": "taco64.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco64.jpg"
+    },
+    {
+      "name": "taco65.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco65.jpg"
+    },
+    {
+      "name": "taco66.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco66.jpg"
+    },
+    {
+      "name": "taco67.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco67.jpg"
+    },
+    {
+      "name": "taco68.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco68.jpg"
+    },
+    {
+      "name": "taco69.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco69.jpg"
+    },
+    {
+      "name": "taco7.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco7.jpg"
+    },
+    {
+      "name": "taco70.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco70.jpg"
+    },
+    {
+      "name": "taco71.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco71.jpg"
+    },
+    {
+      "name": "taco72.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco72.jpg"
+    },
+    {
+      "name": "taco73.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco73.jpg"
+    },
+    {
+      "name": "taco74.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco74.jpg"
+    },
+    {
+      "name": "taco75.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco75.jpg"
+    },
+    {
+      "name": "taco76.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco76.jpg"
+    },
+    {
+      "name": "taco77.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco77.jpg"
+    },
+    {
+      "name": "taco78.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco78.jpg"
+    },
+    {
+      "name": "taco79.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco79.jpg"
+    },
+    {
+      "name": "taco8.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco8.jpg"
+    },
+    {
+      "name": "taco81.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco81.jpg"
+    },
+    {
+      "name": "taco82.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco82.jpg"
+    },
+    {
+      "name": "taco83.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco83.jpg"
+    },
+    {
+      "name": "taco84.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco84.jpg"
+    },
+    {
+      "name": "taco85.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco85.jpg"
+    },
+    {
+      "name": "taco86.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco86.jpg"
+    },
+    {
+      "name": "taco87.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco87.jpg"
+    },
+    {
+      "name": "taco88.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco88.jpg"
+    },
+    {
+      "name": "taco89.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco89.jpg"
+    },
+    {
+      "name": "taco9.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco9.jpg"
+    },
+    {
+      "name": "taco90.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco90.jpg"
+    },
+    {
+      "name": "taco91.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco91.jpg"
+    },
+    {
+      "name": "taco92.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco92.jpg"
+    },
+    {
+      "name": "taco93.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco93.jpg"
+    },
+    {
+      "name": "taco94.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco94.jpg"
+    },
+    {
+      "name": "taco95.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco95.jpg"
+    },
+    {
+      "name": "taco96.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco96.jpg"
+    },
+    {
+      "name": "taco97.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco97.jpg"
+    },
+    {
+      "name": "taco98.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco98.jpg"
+    },
+    {
+      "name": "taco99.jpg",
+      "category": "taco",
+      "path": "/assets/pics/taco/taco99.jpg"
     }
   ],
   "tiny toon": [
