@@ -1,116 +1,4 @@
 let pics = {
-  "ancient drawings guy": [
-    {
-      "name": "35GGtnL.jpg",
-      "category": "ancient drawings guy",
-      "path": "/assets/pics/ancient drawings guy/35GGtnL.jpg"
-    },
-    {
-      "name": "7vbSM4o.jpg",
-      "category": "ancient drawings guy",
-      "path": "/assets/pics/ancient drawings guy/7vbSM4o.jpg"
-    },
-    {
-      "name": "8ovC26B.jpg",
-      "category": "ancient drawings guy",
-      "path": "/assets/pics/ancient drawings guy/8ovC26B.jpg"
-    },
-    {
-      "name": "8w79hNH.jpg",
-      "category": "ancient drawings guy",
-      "path": "/assets/pics/ancient drawings guy/8w79hNH.jpg"
-    },
-    {
-      "name": "Cuvoltj.jpg",
-      "category": "ancient drawings guy",
-      "path": "/assets/pics/ancient drawings guy/Cuvoltj.jpg"
-    },
-    {
-      "name": "I8tkElv.jpg",
-      "category": "ancient drawings guy",
-      "path": "/assets/pics/ancient drawings guy/I8tkElv.jpg"
-    },
-    {
-      "name": "ITzwab6.jpg",
-      "category": "ancient drawings guy",
-      "path": "/assets/pics/ancient drawings guy/ITzwab6.jpg"
-    },
-    {
-      "name": "IyikWg2.jpg",
-      "category": "ancient drawings guy",
-      "path": "/assets/pics/ancient drawings guy/IyikWg2.jpg"
-    },
-    {
-      "name": "KdMY1xn.jpg",
-      "category": "ancient drawings guy",
-      "path": "/assets/pics/ancient drawings guy/KdMY1xn.jpg"
-    },
-    {
-      "name": "Kw1ANAe.jpg",
-      "category": "ancient drawings guy",
-      "path": "/assets/pics/ancient drawings guy/Kw1ANAe.jpg"
-    },
-    {
-      "name": "LFP0kvk.jpg",
-      "category": "ancient drawings guy",
-      "path": "/assets/pics/ancient drawings guy/LFP0kvk.jpg"
-    },
-    {
-      "name": "T7DKq4i.jpg",
-      "category": "ancient drawings guy",
-      "path": "/assets/pics/ancient drawings guy/T7DKq4i.jpg"
-    },
-    {
-      "name": "TklcYbo.jpg",
-      "category": "ancient drawings guy",
-      "path": "/assets/pics/ancient drawings guy/TklcYbo.jpg"
-    },
-    {
-      "name": "YXZIyvp.jpg",
-      "category": "ancient drawings guy",
-      "path": "/assets/pics/ancient drawings guy/YXZIyvp.jpg"
-    },
-    {
-      "name": "hOvZ2t3.jpg",
-      "category": "ancient drawings guy",
-      "path": "/assets/pics/ancient drawings guy/hOvZ2t3.jpg"
-    },
-    {
-      "name": "jiaPXfb.jpg",
-      "category": "ancient drawings guy",
-      "path": "/assets/pics/ancient drawings guy/jiaPXfb.jpg"
-    },
-    {
-      "name": "mE1tw52.jpg",
-      "category": "ancient drawings guy",
-      "path": "/assets/pics/ancient drawings guy/mE1tw52.jpg"
-    },
-    {
-      "name": "nCVzYjd.jpg",
-      "category": "ancient drawings guy",
-      "path": "/assets/pics/ancient drawings guy/nCVzYjd.jpg"
-    },
-    {
-      "name": "oqEE6hM.jpg",
-      "category": "ancient drawings guy",
-      "path": "/assets/pics/ancient drawings guy/oqEE6hM.jpg"
-    },
-    {
-      "name": "prjNZVg.jpg",
-      "category": "ancient drawings guy",
-      "path": "/assets/pics/ancient drawings guy/prjNZVg.jpg"
-    },
-    {
-      "name": "qYmL2ht.jpg",
-      "category": "ancient drawings guy",
-      "path": "/assets/pics/ancient drawings guy/qYmL2ht.jpg"
-    },
-    {
-      "name": "soNPiEO.jpg",
-      "category": "ancient drawings guy",
-      "path": "/assets/pics/ancient drawings guy/soNPiEO.jpg"
-    }
-  ],
   "animals": [
     {
       "name": "111918.AG_.JSColumn1.jpeg",
@@ -4897,6 +4785,163 @@ let pics = {
       "name": "tumblr_ny28flPzFE1s6441yo3_500.png",
       "category": "expressions",
       "path": "/assets/pics/expressions/tumblr_ny28flPzFE1s6441yo3_500.png"
+    }
+  ],
+  "fisher": [
+    {
+      "name": "35GGtnL.jpg",
+      "category": "fisher",
+      "path": "/assets/pics/fisher/35GGtnL.jpg"
+    },
+    {
+      "name": "7vbSM4o.jpg",
+      "category": "fisher",
+      "path": "/assets/pics/fisher/7vbSM4o.jpg"
+    },
+    {
+      "name": "8ovC26B.jpg",
+      "category": "fisher",
+      "path": "/assets/pics/fisher/8ovC26B.jpg"
+    },
+    {
+      "name": "8w79hNH.jpg",
+      "category": "fisher",
+      "path": "/assets/pics/fisher/8w79hNH.jpg"
+    },
+    {
+      "name": "Cuvoltj.jpg",
+      "category": "fisher",
+      "path": "/assets/pics/fisher/Cuvoltj.jpg"
+    },
+    {
+      "name": "DH4lYX4XsAArGZN.jpg",
+      "category": "fisher",
+      "path": "/assets/pics/fisher/DH4lYX4XsAArGZN.jpg"
+    },
+    {
+      "name": "DmNmYNDUcAMMhVc.jpg",
+      "category": "fisher",
+      "path": "/assets/pics/fisher/DmNmYNDUcAMMhVc.jpg"
+    },
+    {
+      "name": "Dr78-6sUUAADFT_.jpg",
+      "category": "fisher",
+      "path": "/assets/pics/fisher/Dr78-6sUUAADFT_.jpg"
+    },
+    {
+      "name": "Dr7n-vXVsAAh-rH.jpg",
+      "category": "fisher",
+      "path": "/assets/pics/fisher/Dr7n-vXVsAAh-rH.jpg"
+    },
+    {
+      "name": "DrXBkSFU0AAdRcJ.jpg",
+      "category": "fisher",
+      "path": "/assets/pics/fisher/DrXBkSFU0AAdRcJ.jpg"
+    },
+    {
+      "name": "DrxFV7HU0AEhwgQ.jpg",
+      "category": "fisher",
+      "path": "/assets/pics/fisher/DrxFV7HU0AEhwgQ.jpg"
+    },
+    {
+      "name": "Dsz6OP_VAAABhSI.jpg",
+      "category": "fisher",
+      "path": "/assets/pics/fisher/Dsz6OP_VAAABhSI.jpg"
+    },
+    {
+      "name": "Dt4y3h4UcAAoJkR.jpg",
+      "category": "fisher",
+      "path": "/assets/pics/fisher/Dt4y3h4UcAAoJkR.jpg"
+    },
+    {
+      "name": "DttMxL0U4AA2iQM.jpg",
+      "category": "fisher",
+      "path": "/assets/pics/fisher/DttMxL0U4AA2iQM.jpg"
+    },
+    {
+      "name": "I8tkElv.jpg",
+      "category": "fisher",
+      "path": "/assets/pics/fisher/I8tkElv.jpg"
+    },
+    {
+      "name": "ITzwab6.jpg",
+      "category": "fisher",
+      "path": "/assets/pics/fisher/ITzwab6.jpg"
+    },
+    {
+      "name": "IyikWg2.jpg",
+      "category": "fisher",
+      "path": "/assets/pics/fisher/IyikWg2.jpg"
+    },
+    {
+      "name": "KdMY1xn.jpg",
+      "category": "fisher",
+      "path": "/assets/pics/fisher/KdMY1xn.jpg"
+    },
+    {
+      "name": "Kw1ANAe.jpg",
+      "category": "fisher",
+      "path": "/assets/pics/fisher/Kw1ANAe.jpg"
+    },
+    {
+      "name": "LFP0kvk.jpg",
+      "category": "fisher",
+      "path": "/assets/pics/fisher/LFP0kvk.jpg"
+    },
+    {
+      "name": "T7DKq4i.jpg",
+      "category": "fisher",
+      "path": "/assets/pics/fisher/T7DKq4i.jpg"
+    },
+    {
+      "name": "TklcYbo.jpg",
+      "category": "fisher",
+      "path": "/assets/pics/fisher/TklcYbo.jpg"
+    },
+    {
+      "name": "YXZIyvp.jpg",
+      "category": "fisher",
+      "path": "/assets/pics/fisher/YXZIyvp.jpg"
+    },
+    {
+      "name": "hOvZ2t3.jpg",
+      "category": "fisher",
+      "path": "/assets/pics/fisher/hOvZ2t3.jpg"
+    },
+    {
+      "name": "jiaPXfb.jpg",
+      "category": "fisher",
+      "path": "/assets/pics/fisher/jiaPXfb.jpg"
+    },
+    {
+      "name": "mE1tw52.jpg",
+      "category": "fisher",
+      "path": "/assets/pics/fisher/mE1tw52.jpg"
+    },
+    {
+      "name": "nCVzYjd.jpg",
+      "category": "fisher",
+      "path": "/assets/pics/fisher/nCVzYjd.jpg"
+    },
+    {
+      "name": "oqEE6hM.jpg",
+      "category": "fisher",
+      "path": "/assets/pics/fisher/oqEE6hM.jpg"
+    },
+    {
+      "name": "prjNZVg.jpg",
+      "category": "fisher",
+      "path": "/assets/pics/fisher/prjNZVg.jpg"
+    },
+    {
+      "name": "qYmL2ht.jpg",
+      "category": "fisher",
+      "path": "/assets/pics/fisher/qYmL2ht.jpg"
+    },
+    {
+      "name": "soNPiEO.jpg",
+      "category": "fisher",
+      "path": "/assets/pics/fisher/soNPiEO.jpg"
     }
   ],
   "grills": [
