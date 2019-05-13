@@ -1,14 +1,29 @@
 let pics = {
   "animals": [
     {
+      "name": "096c8cb139154c19ed9ee9aa1e44d204.jpg",
+      "category": "animals",
+      "path": "/assets/pics/animals/096c8cb139154c19ed9ee9aa1e44d204.jpg"
+    },
+    {
       "name": "111918.AG_.JSColumn1.jpeg",
       "category": "animals",
       "path": "/assets/pics/animals/111918.AG_.JSColumn1.jpeg"
     },
     {
+      "name": "3cad74d788298578a8dec13c2d2f9cc1f42f1952.jpeg",
+      "category": "animals",
+      "path": "/assets/pics/animals/3cad74d788298578a8dec13c2d2f9cc1f42f1952.jpeg"
+    },
+    {
       "name": "413474560.jpg",
       "category": "animals",
       "path": "/assets/pics/animals/413474560.jpg"
+    },
+    {
+      "name": "4a7a8cbe1a44f7a50345ef35dd0d7bad.jpg",
+      "category": "animals",
+      "path": "/assets/pics/animals/4a7a8cbe1a44f7a50345ef35dd0d7bad.jpg"
     },
     {
       "name": "5.jpg",
@@ -21,9 +36,24 @@ let pics = {
       "path": "/assets/pics/animals/5c1ad9ab102e1.image.jpg"
     },
     {
+      "name": "6d4d844d7b679340bfaf9bebfa8d0236.jpg",
+      "category": "animals",
+      "path": "/assets/pics/animals/6d4d844d7b679340bfaf9bebfa8d0236.jpg"
+    },
+    {
       "name": "9-weeks-Tweed.jpg",
       "category": "animals",
       "path": "/assets/pics/animals/9-weeks-Tweed.jpg"
+    },
+    {
+      "name": "96305750a6e67eabb097aed121cbe084.jpg",
+      "category": "animals",
+      "path": "/assets/pics/animals/96305750a6e67eabb097aed121cbe084.jpg"
+    },
+    {
+      "name": "9d026f980d3c8bac21fafc4d1f7ee0cc.jpg",
+      "category": "animals",
+      "path": "/assets/pics/animals/9d026f980d3c8bac21fafc4d1f7ee0cc.jpg"
     },
     {
       "name": "A-fluffy-cat-looking-funny-surprised-or-concerned.jpg",
@@ -46,6 +76,11 @@ let pics = {
       "path": "/assets/pics/animals/Cat-hd-wallpapers.jpg"
     },
     {
+      "name": "Dog.jpg",
+      "category": "animals",
+      "path": "/assets/pics/animals/Dog.jpg"
+    },
+    {
       "name": "F1SavannahCat-7.jpg",
       "category": "animals",
       "path": "/assets/pics/animals/F1SavannahCat-7.jpg"
@@ -61,9 +96,34 @@ let pics = {
       "path": "/assets/pics/animals/Savannah-1-645mk062211.jpg"
     },
     {
+      "name": "bd820af56702522ba31dde75d1d1e44e.jpg",
+      "category": "animals",
+      "path": "/assets/pics/animals/bd820af56702522ba31dde75d1d1e44e.jpg"
+    },
+    {
+      "name": "beagle.jpg",
+      "category": "animals",
+      "path": "/assets/pics/animals/beagle.jpg"
+    },
+    {
+      "name": "boo.jpg",
+      "category": "animals",
+      "path": "/assets/pics/animals/boo.jpg"
+    },
+    {
       "name": "cat-adult-landing-hero.jpg",
       "category": "animals",
       "path": "/assets/pics/animals/cat-adult-landing-hero.jpg"
+    },
+    {
+      "name": "ee3929770daf06f3a65dc554d6ccb092.jpg",
+      "category": "animals",
+      "path": "/assets/pics/animals/ee3929770daf06f3a65dc554d6ccb092.jpg"
+    },
+    {
+      "name": "f523acccd59ce28b8743158194b3487d.jpg",
+      "category": "animals",
+      "path": "/assets/pics/animals/f523acccd59ce28b8743158194b3487d.jpg"
     },
     {
       "name": "file_2706_bengal-cat-breed-picture.jpg",
@@ -1647,6 +1707,11 @@ let pics = {
       "path": "/assets/pics/anime grills/95933bfe915dbaaf2939f6adbc286ce5.jpg"
     },
     {
+      "name": "99f68649bbaae26e8113ca01db2da517.jpg",
+      "category": "anime grills",
+      "path": "/assets/pics/anime grills/99f68649bbaae26e8113ca01db2da517.jpg"
+    },
+    {
       "name": "9b46203adff5842881fcfc21472597c1.jpg",
       "category": "anime grills",
       "path": "/assets/pics/anime grills/9b46203adff5842881fcfc21472597c1.jpg"
@@ -2231,6 +2296,11 @@ let pics = {
       "path": "/assets/pics/cartoon grills/555189e9c2260ae89dc09721837773b5.jpg"
     },
     {
+      "name": "5cbc178639d8ce96ad2f7dbd22ea18b0.jpg",
+      "category": "cartoon grills",
+      "path": "/assets/pics/cartoon grills/5cbc178639d8ce96ad2f7dbd22ea18b0.jpg"
+    },
+    {
       "name": "619da80f8c9dc5b15e387fe9f6538318.jpg",
       "category": "cartoon grills",
       "path": "/assets/pics/cartoon grills/619da80f8c9dc5b15e387fe9f6538318.jpg"
@@ -2356,6 +2426,11 @@ let pics = {
       "path": "/assets/pics/cartoon grills/b7672e74ef1556b7a01ec05b891e6210.jpg"
     },
     {
+      "name": "b7d67a91c62260c516d19af4277eb2e0.jpg",
+      "category": "cartoon grills",
+      "path": "/assets/pics/cartoon grills/b7d67a91c62260c516d19af4277eb2e0.jpg"
+    },
+    {
       "name": "c4b679358bab6d123744ac12582791e1.jpg",
       "category": "cartoon grills",
       "path": "/assets/pics/cartoon grills/c4b679358bab6d123744ac12582791e1.jpg"
@@ -2394,6 +2469,11 @@ let pics = {
       "name": "e1b5dfe3eff27adcec9ea9450e1923a1.jpg",
       "category": "cartoon grills",
       "path": "/assets/pics/cartoon grills/e1b5dfe3eff27adcec9ea9450e1923a1.jpg"
+    },
+    {
+      "name": "e849f84022e45051feca2ee132b3afa3.jpg",
+      "category": "cartoon grills",
+      "path": "/assets/pics/cartoon grills/e849f84022e45051feca2ee132b3afa3.jpg"
     },
     {
       "name": "eacdf1861a7757a67d5dac899cfca0ad.jpg",
@@ -4722,6 +4802,11 @@ let pics = {
       "path": "/assets/pics/expressions/ce9e3ab1c6f9ca04de8ca88f03b95eed.jpg"
     },
     {
+      "name": "d10043fd1559c8f9a527d4294df0ecea.jpg",
+      "category": "expressions",
+      "path": "/assets/pics/expressions/d10043fd1559c8f9a527d4294df0ecea.jpg"
+    },
+    {
       "name": "tumblr_nnu7xtzqy01rl3tlpo2_1280.jpg",
       "category": "expressions",
       "path": "/assets/pics/expressions/tumblr_nnu7xtzqy01rl3tlpo2_1280.jpg"
@@ -6510,6 +6595,16 @@ let pics = {
       "name": "bb758bd5ad9a1d44d54d34e656411a4d.jpg",
       "category": "other",
       "path": "/assets/pics/other/bb758bd5ad9a1d44d54d34e656411a4d.jpg"
+    },
+    {
+      "name": "d1851381e3b7cb3fd99e3eae23bce323.jpg",
+      "category": "other",
+      "path": "/assets/pics/other/d1851381e3b7cb3fd99e3eae23bce323.jpg"
+    },
+    {
+      "name": "e22b12533ebec67c398be2a396a62380.jpg",
+      "category": "other",
+      "path": "/assets/pics/other/e22b12533ebec67c398be2a396a62380.jpg"
     }
   ],
   "ren and stimpy": [
@@ -6902,6 +6997,111 @@ let pics = {
       "name": "2018-08-27_032420.jpg",
       "category": "ren and stimpy",
       "path": "/assets/pics/ren and stimpy/2018-08-27_032420.jpg"
+    },
+    {
+      "name": "2298ba475e7ca4ac5821e646f7d81a61.jpg",
+      "category": "ren and stimpy",
+      "path": "/assets/pics/ren and stimpy/2298ba475e7ca4ac5821e646f7d81a61.jpg"
+    },
+    {
+      "name": "2417f063976e108d6cd573cb242ac253.jpg",
+      "category": "ren and stimpy",
+      "path": "/assets/pics/ren and stimpy/2417f063976e108d6cd573cb242ac253.jpg"
+    },
+    {
+      "name": "27919495985dc0bd27fe446d24157f8a.jpg",
+      "category": "ren and stimpy",
+      "path": "/assets/pics/ren and stimpy/27919495985dc0bd27fe446d24157f8a.jpg"
+    },
+    {
+      "name": "295f92ac0bfaaa2cc6b4d358b1c5acfb.jpg",
+      "category": "ren and stimpy",
+      "path": "/assets/pics/ren and stimpy/295f92ac0bfaaa2cc6b4d358b1c5acfb.jpg"
+    },
+    {
+      "name": "3296b66c83e89bf436821133548c406a.jpg",
+      "category": "ren and stimpy",
+      "path": "/assets/pics/ren and stimpy/3296b66c83e89bf436821133548c406a.jpg"
+    },
+    {
+      "name": "3389f0abec6ef3d161e25d46c00ea8b8.jpg",
+      "category": "ren and stimpy",
+      "path": "/assets/pics/ren and stimpy/3389f0abec6ef3d161e25d46c00ea8b8.jpg"
+    },
+    {
+      "name": "3a08e072808f7818bf8f731835192d7d.jpg",
+      "category": "ren and stimpy",
+      "path": "/assets/pics/ren and stimpy/3a08e072808f7818bf8f731835192d7d.jpg"
+    },
+    {
+      "name": "432e9db1e636565650098de607eb218c.jpg",
+      "category": "ren and stimpy",
+      "path": "/assets/pics/ren and stimpy/432e9db1e636565650098de607eb218c.jpg"
+    },
+    {
+      "name": "537d720828cb9ed95845cf50d42fe0b6.jpg",
+      "category": "ren and stimpy",
+      "path": "/assets/pics/ren and stimpy/537d720828cb9ed95845cf50d42fe0b6.jpg"
+    },
+    {
+      "name": "63fec5dea020a9c65f6c3f6098df54e2.jpg",
+      "category": "ren and stimpy",
+      "path": "/assets/pics/ren and stimpy/63fec5dea020a9c65f6c3f6098df54e2.jpg"
+    },
+    {
+      "name": "70f02bfb5f9403ae5801693443299c07.jpg",
+      "category": "ren and stimpy",
+      "path": "/assets/pics/ren and stimpy/70f02bfb5f9403ae5801693443299c07.jpg"
+    },
+    {
+      "name": "8a511c5d53adb97f1350c360287ef0cb.jpg",
+      "category": "ren and stimpy",
+      "path": "/assets/pics/ren and stimpy/8a511c5d53adb97f1350c360287ef0cb.jpg"
+    },
+    {
+      "name": "a3fd82c35c379c1f2f937827f97b533b.jpg",
+      "category": "ren and stimpy",
+      "path": "/assets/pics/ren and stimpy/a3fd82c35c379c1f2f937827f97b533b.jpg"
+    },
+    {
+      "name": "a92bf7d3934d8af3bd124a69281b5107.jpg",
+      "category": "ren and stimpy",
+      "path": "/assets/pics/ren and stimpy/a92bf7d3934d8af3bd124a69281b5107.jpg"
+    },
+    {
+      "name": "bebb5db56e47f11f89f9ecc8e5cadc80.jpg",
+      "category": "ren and stimpy",
+      "path": "/assets/pics/ren and stimpy/bebb5db56e47f11f89f9ecc8e5cadc80.jpg"
+    },
+    {
+      "name": "d0bdf393e953b4c3c55aed920c7254aa.jpg",
+      "category": "ren and stimpy",
+      "path": "/assets/pics/ren and stimpy/d0bdf393e953b4c3c55aed920c7254aa.jpg"
+    },
+    {
+      "name": "d7d16cc43c670f1d81d70df229ef5d6b.jpg",
+      "category": "ren and stimpy",
+      "path": "/assets/pics/ren and stimpy/d7d16cc43c670f1d81d70df229ef5d6b.jpg"
+    },
+    {
+      "name": "db4b2e0cbc75f674dde9dcf0ca8ba632.jpg",
+      "category": "ren and stimpy",
+      "path": "/assets/pics/ren and stimpy/db4b2e0cbc75f674dde9dcf0ca8ba632.jpg"
+    },
+    {
+      "name": "f4de344dc64d61f23b43c487ef0c8fce.jpg",
+      "category": "ren and stimpy",
+      "path": "/assets/pics/ren and stimpy/f4de344dc64d61f23b43c487ef0c8fce.jpg"
+    },
+    {
+      "name": "fef98ff918aae455aeb80637c988be0a.jpg",
+      "category": "ren and stimpy",
+      "path": "/assets/pics/ren and stimpy/fef98ff918aae455aeb80637c988be0a.jpg"
+    },
+    {
+      "name": "ff4c42760d8fdebd7b4f37fdcd3a0415.jpg",
+      "category": "ren and stimpy",
+      "path": "/assets/pics/ren and stimpy/ff4c42760d8fdebd7b4f37fdcd3a0415.jpg"
     }
   ],
   "taco": [
