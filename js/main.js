@@ -146,6 +146,14 @@ function keyGrab(e) {
     pic_elem.width /= zoom_rate;
     pic_elem.height /= zoom_rate;
   }
+  // press n to skip current pic
+  if (e.key === 'n') {
+    skipPic(e);
+  }
+  // press p to pause
+  if (e.key === 'p') {
+    pause();
+  }
 }
 
 function toggleInfoOpacity(e) {
